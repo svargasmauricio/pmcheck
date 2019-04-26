@@ -1,0 +1,4 @@
+C:\Projetos\Pos\MOD2\AWD\pmcheck\platforms\android\app\src\main\assets\app\bundle.js
+C:\Projetos\Pos\MOD2\AWD\pmcheck\platforms\android\app\src\main\assets\app\starter.js
+C:\Projetos\Pos\MOD2\AWD\pmcheck\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\Projetos\Pos\MOD2\AWD\pmcheck\platforms\android\app\src\main\assets\app\vendor.js

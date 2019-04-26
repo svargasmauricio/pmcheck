@@ -1,0 +1,25 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\app.android.scss": "3b259542aa5312dd3d1537e29498b9f031c3b43a",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\app.ios.scss": "181964851ce927def9f980ea934d636eb71ef359",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\assets\\images\\NativeScript-Vue.png": "31f09bdba72293198ee2e2a83c4fe5aa5744bc3d",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\components\\agenda\\List.vue": "904370bb92dfa172ad98dbe57e23abac77dadcbb",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\components\\agenda\\ResultsItem.vue": "53653f31ba602d105d3da9edc8cdd944be0a2753",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\components\\App.vue": "fd9200338d7f7e954788b437ed14beec2e0257bd",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\components\\control\\c_ListPickerIModal.vue": "b204d275025efd6be5e16a80ea5d0bdb20c83470",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\helpers\\Animation.js": "8294d544817072c82265a041157a681ccddcadee",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\helpers\\Effects.js": "2d825efc2378bc801c60bcbb32b0a82c66947d70",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\helpers\\Navigation.js": "0182f9257451a3f7be6d1be6e5fcc3c34901073e",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\helpers\\util.js": "1d4289c8e0b62ecf64a3cb1721811b031fc7ef15",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\main.ts": "49e5c5b9df7beb80cb12f71c86d3db93a28fe779",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\package.json": "d3805da0b7f803127172b96cd2e4a6ebdf2dd48d",
+		"C:\\Projetos\\Pos\\MOD2\\AWD\\pmcheck\\app\\_commom.scss": "8a7e64eb61fec76fcd7a89142300d642ea85b98f"
+	},
+	"release": false,
+	"bundle": true,
+	"changesRequireBuild": true,
+	"time": "Fri Apr 26 2019 10:12:43 GMT-0300 (Hora oficial do Brasil)",
+	"changesRequireBuildTime": "Fri Apr 26 2019 10:12:43 GMT-0300 (Hora oficial do Brasil)",
+	"projectFileHash": "e5005a28c20a064691e25e3658a905e453b27e12260ada46bfd0a6b1bd4babcd"
+}
